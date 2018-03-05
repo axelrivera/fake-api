@@ -1,0 +1,22 @@
+team_name: Straw Hat Pirates
+members:
+  - name: Monkey D. Luffy
+    captain: true
+    fruit_user: true
+  - name: Roronoa Zoro
+    fruit_user: false
+  - name: Nami
+    fruit_user: false
+  - name: Usopp
+    fruit_user: false
+  - name: Sanji
+    fruit_user: false
+  - name: Tony Tony Chopper
+    fruit_user: true
+  - name: Nico Robin
+    fruit_user: true
+  - name: Franky
+    fruit_user: false
+  - name: Brook
+    fruit_user: true
+    

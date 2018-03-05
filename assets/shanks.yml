@@ -1,0 +1,11 @@
+team_name: Red-Haired Pirates
+members:
+  - name: Red-Haired Shanks
+    captain: true
+    fruit_user: true
+  - name: Ben Beckman
+    fruit_user: false
+  - name: Lucky Roux
+    fruit_user: false
+  - name: Yasopp
+    fruit_user: false

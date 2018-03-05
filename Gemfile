@@ -1,0 +1,11 @@
+source "https://rubygems.org"
+ruby "2.4.2"
+
+gem "sinatra"
+gem "sinatra-contrib"
+gem "activesupport"
+gem "shotgun"
+gem "thin"
+gem "rack-contrib"
+gem "faker"
+gem "will_paginate"
