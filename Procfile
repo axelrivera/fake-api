@@ -1,1 +1,1 @@
-web: shotgun --server=thin --host=0.0.0.0 --port=$PORT config.ru
+web: rackup --host=0.0.0.0 --port=$PORT config.ru
